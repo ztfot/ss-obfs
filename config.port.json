@@ -1,0 +1,17 @@
+{
+    "server":"0.0.0.0",
+    "port_password":{
+	   "1219":"Zyf20021219#",
+	   "1129":"hrx1129#",
+        "1001":"4auinbi8#",
+        "1002":"48smwsf#2",
+    	"8100":"Dzx0801#"
+    },
+    "timeout":300,
+    "nameserver":"8.8.8.8",
+    "method":"chacha20-ietf-poly1305",
+    "fast_open":true,
+    "reuse_port":true,
+    "plugin":"obfs-server",
+    "plugin_opts":"obfs=http;failover=www.bing.com"
+}

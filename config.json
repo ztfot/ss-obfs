@@ -1,0 +1,12 @@
+{
+    "server":"0.0.0.0",
+    "server_port":3412,
+    "password":"Zero3412#",
+    "timeout":300,
+    "nameserver":"8.8.8.8",
+    "method":"chacha20-ietf-poly1305",
+    "fast_open":true,
+    "reuse_port":true,
+    "plugin":"obfs-server",
+    "plugin_opts":"obfs=http;failover=www.bing.com"
+}
